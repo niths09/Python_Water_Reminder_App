@@ -95,11 +95,3 @@ The application displays an animated desktop popup reminding users to stay hydra
 ## 🎯 Purpose
 
 This project was created as a personal desktop utility to promote healthy hydration habits through simple, lightweight, and non-intrusive reminders.
-
----
-
-## 👩‍💻 Author
-
-**Nithu Lakshmi**
-
-GitHub: https://github.com/niths09
